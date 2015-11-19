@@ -1,15 +1,12 @@
-## check out
-
-    git clone https://github.com/robruth/laptop.git
-
 ## setup laptop
 
+    git clone https://github.com/robruth/laptop.git
     cd laptop
     sh laptop
 
 ## setup java
 
-
+    java -> more info -> jre
 
 ## setup aws cli
     curl -o /tmp/awscli-bundle.zip https://s3.amazonaws.com/aws-cli/awscli-bundle.zip
