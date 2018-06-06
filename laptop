@@ -54,32 +54,17 @@ brew_install_or_upgrade 'fish'
 brew_install_or_upgrade 'vim'
 brew_install_or_upgrade 'wget'
 
-brew cask install 1password
+
 brew cask install alfred
-brew cask install angry-ip-scanner
-brew cask install appcleaner
-brew cask install appium
-brew cask install asepsis
 brew cask install atom
-brew cask install boot2docker
-brew cask install caffeine
-brew cask install chefdk
-brew cask install coda
 brew cask install cyberduck
 brew cask install divvy
-brew cask install docker-compose
-brew cask install docker-machine
+brew cask install docker
 brew cask install evernote
 brew cask install google-chrome
-brew cask install google-hangouts
-brew cask install hazel
-brew cask install hipchat
+brew cask install microsoft-office
 brew cask install omnigraffle
-brew cask install sequel-pro
-brew cask install skype
 brew cask install steam
-brew cask install sublime-text
-brew cask install textmate
 brew cask install unrarx
 brew cask install vagrant
 brew cask install virtualbox
