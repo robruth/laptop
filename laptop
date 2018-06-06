@@ -50,7 +50,6 @@ brew_tap() {
 brew_tap 'caskroom/cask'
 brew_install_or_upgrade 'brew-cask'
 brew_install_or_upgrade 'git'
-brew_install_or_upgrade 'fish'
 brew_install_or_upgrade 'vim'
 brew_install_or_upgrade 'wget'
 
